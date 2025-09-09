@@ -14,23 +14,23 @@ I developed a comprehensive project in Power BI, creating multiple dashboards an
  3. Booking ID
  4. Booking Status
  5. Customer ID
- 6. Vehicle Type- Auto- Prime Plus- Prime Sedan- Mini- Bike- eBike- Prime SUV
+ 6. Vehicle Type- Auto -Prime Plus -Prime Sedan -Mini -Bike -eBike -Prime SUV
  7. Pickup Location (Create dummy location points Take any 50 areas from Bangalore)
  8. Drop Location (Take from dummy pickup locations)
  9. AvgVTAT (Time taken to arrive at the vehicle)
  10. Avg CTAT (Time taken to arrive the Customer)
  11. Cancelled Rides by Customer
  12. Reason for cancelling by Customer
-Driver is not moving towards pickup location----
- Driver asked to cancel
- ACis not working (Only for 4-wheelers)
- Change of plans
- Wrong Address
+Driver is not moving towards pickup location
+ -Driver asked to cancel
+ -AC is not working (Only for 4-wheelers)
+ -Change of plans
+ -Wrong Address
  13. Cancelled Rides by Driver
-Personal & Car related issues--
-Customer related issue
- The customer was coughing/sick
- More than permitted people in there
+ -Personal & Car related issues
+ -Customer related issue
+ -The customer was coughing/sick
+ -More than permitted people in there
  14. Incomplete Rides
  15. Incomplete Rides Reason
    -Customer Demand
