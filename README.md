@@ -33,12 +33,13 @@ Customer related issue
  More than permitted people in there
  14. Incomplete Rides
  15. Incomplete Rides Reason
-Customer Demand--
- Vehicle Breakdown
- Other Issue
+   -Customer Demand
+   -Vehicle Breakdown
+   -Other Issue
  16. Booking Value
  17. Ride Distance
  18. Driver Ratings
  19. Customer Rating
+     
  Keep the overall booking status success for this data at 62%. If the booking status is successful, then only
  fare charge ratings, average VTAT, average CTAT, and other data will be there
