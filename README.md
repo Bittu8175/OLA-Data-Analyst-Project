@@ -2,7 +2,7 @@
 I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
 ## Project Objective
- Make sure orders cancelled by customers should not be more than 7%
+ Make sure orders cancelled by customers should not be more than 7% <br>
  Make sure orders cancelled drivers should not be more than 18%
 
 ## Dataset Used
