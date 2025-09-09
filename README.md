@@ -61,7 +61,7 @@ Driver is not moving towards pickup location
 
 ## Dashboard 
 
-<img width="752" height="424" alt="Dashboard1" src="https://github.com/user-attachments/assets/23f5675a-cc29-42c6-8795-e9100fd1324a" />
+<img width="752" height="424" alt="Dashboard1" src="https://github.com/user-attachments/assets/23f5675a-cc29-42c6-8795-e9100fd1324a" /><br>
 <img width="767" height="427" alt="Dashboard2" src="https://github.com/user-attachments/assets/72223da1-1342-45bf-9a75-b3da263c50b0" />
 <img width="764" height="429" alt="Dashboard3" src="https://github.com/user-attachments/assets/d611eca9-96f0-4fd9-8097-3fa7a22c06ec" />
 <img width="757" height="423" alt="Dashboard4" src="https://github.com/user-attachments/assets/c2f6fb16-53b7-4552-b00c-42bb24909232" />
