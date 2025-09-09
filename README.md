@@ -58,3 +58,8 @@ Driver is not moving towards pickup location
  8. Ride Distance Distribution Per Day
  9. Driver Ratings Distribution
  10. Customer vs. Driver Ratings
+
+## Dashboard 
+
+<img width="752" height="424" alt="Dashboard1" src="https://github.com/user-attachments/assets/23f5675a-cc29-42c6-8795-e9100fd1324a" />
+
