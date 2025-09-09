@@ -1,6 +1,9 @@
 # OLA-Data-Analyst-Project (Interactive Dashboard creation using Power BI) 
 I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
+## Project Objective
+ Make sure orders cancelled by customers should not be more than 7%
+ Make sure orders cancelled drivers should not be more than 18%
 
 ## Dataset Used
 - <a href="https://github.com/Bittu8175/OLA-Data-Analyst-Project/blob/main/Booking.csv">Dataset</a>
